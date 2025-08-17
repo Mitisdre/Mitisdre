@@ -35,5 +35,5 @@
 
 ---
 
-📄 [My CV (German & English)](https://github.com/Mitisdre/Mitisdre/blob/main/Cengizhan_Gurkol_CV.pdf)
+📄 [My CV (German)](https://github.com/Mitisdre/Mitisdre/blob/main/Cengizhan_Gurkol_CV.pdf)
 
