@@ -33,7 +33,5 @@
 - GitHub: [Mitisdre](https://github.com/Mitisdre)  
 - LinkedIn: [linkedin.com/in/cengizhan-g-301821155](https://www.linkedin.com/in/cengizhan-g-301821155)  
 
----
-
-📄 [My CV (German)](https://github.com/Mitisdre/Mitisdre/blob/main/Cengizhan_Gurkol_CV.pdf)
+-
 
