@@ -33,5 +33,4 @@
 - GitHub: [Mitisdre](https://github.com/Mitisdre)  
 - LinkedIn: [linkedin.com/in/cengizhan-g-301821155](https://www.linkedin.com/in/cengizhan-g-301821155)  
 
--
-
+---
